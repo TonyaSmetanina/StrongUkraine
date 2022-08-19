@@ -1,0 +1,164 @@
+body {
+  max-width: 1440px;
+  font-family: "M PLUS 1", sans-serif;
+  font-style: normal;
+  background: #E5E5E5;
+}
+
+
+h1 {
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 70px;
+  color: #3e45e8;
+  text-align: center;
+  margin: 13px auto;
+}
+
+.slider {
+  background-image: url("/HomeWork3/img/slider.png");
+  height: 803px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 206px 80px 325px;
+  box-sizing: border-box;
+}
+
+.line {
+  background-image: url("/HomeWork3/img/flag.png");
+  width: 80%;
+  height: 272px;
+  background-repeat: no-repeat;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 140%;    ;
+    color: #FFFFFF;
+    padding: 0px 0px 0px 35px;
+    
+}
+
+.line2 {
+    width: 402px;
+    height: 5px;
+    margin: 0px 80px 20px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 40px;
+    margin: 72px 80px 15px;
+}
+
+/* .collections {
+    overflow: auto;
+} */
+
+/* .collections > div:first-child {
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+.collections > div:last-child {
+    padding-right: 0;
+    padding-left: 5px;
+} */
+
+.cards {
+    /* border: 1px solid black; */
+    width: 26%;
+    height: 451px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 57px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin: 33px 0px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.cards:first-child {
+    margin: 33px 0px 0px 80px;
+}
+
+.cards:last-child {
+    margin: 33px 22px;
+}
+
+.card-image {
+    width: 100%;
+    border-radius: 30px 30px 10px 10px;
+
+}
+
+.card-title {
+    font-size: 24px;
+    color: #1E8DF2;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: -40px 0px -68px 0px;
+}
+
+.card-text {
+    color: #E8C23E;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px;
+    box-sizing: border-box;
+    line-height: 32px;
+}
+
+.card-margin {
+    margin: 33px 4.5%;
+}
+
+.finger {
+    margin: -137px 0 34px 255px;
+    position: absolute;
+}
+
+.line3 {
+    width: 402px;
+    height: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+.support {
+    background-color: #2A61F0;
+    color: white;
+    font-size: 64px;
+    padding: 10px 93px 23px;
+    display: block;
+    margin: 41px 158px 15px 400px;
+}
+
+.footer {
+    background-color: #2F4A4B;
+    color: #A89D9D;
+    font-size: 36px;
+}
+
+a,
+.tel {
+    text-decoration: none;
+    color: #A89D9D;
+    text-align: center;
+    margin: 5px;
+
+}
+.email {
+    display: block;
+}
+
+.soc-network {
+    display: inline-block;
+    margin: 0px 0px 15px 480px;
+}
