@@ -16,7 +16,7 @@ h1 {
 }
 
 .slider {
-  background-image: url("/HomeWork3/StrongUkraine/img/slider.png");
+  background-image: url("/StrongUkraine/img/slider.png");
   height: 803px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .line {
-  background-image: url("/HomeWork3/StrongUkraine/img/flag.png");
+  background-image: url("/StrongUkraine/img/flag.png");
   width: 80%;
   height: 272px;
   background-repeat: no-repeat;
